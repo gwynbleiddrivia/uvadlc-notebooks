@@ -21,7 +21,9 @@ And, in the init function, parameters of the module is defined with `nn.Paramet
 
 The backward calc is done automatically, I don't know what that means yet. Also, I have yet no idea as to why the hidden layer in the midst is necessary and why is there a tanh activation function in each hidden neuron. There are 4 hidden neurons in the hidden layer and two input neurons in the input layer. The blue orbs are input neuron, white orbs are hidden neurons in activation fuctions and red ord is the output neuron.
 
-![[nnXOR.svg]]
+![[nnXOR.svg]]  
+![nnXOR.svg](https://raw.githubusercontent.com/gwynbleiddrivia/uvadlc-notebooks/refs/heads/main/nnXOR.svg)
+
 
 This figure can be defined by the following
 
